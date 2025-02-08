@@ -23,5 +23,7 @@ module ActionMessages
     #
     # config.time_zone = "Central Time (US & Canada)"
     # config.eager_load_paths << Rails.root.join("extras")
+
+    config.hosts << 'd7a4-49-37-209-167.ngrok-free.app'
   end
 end
